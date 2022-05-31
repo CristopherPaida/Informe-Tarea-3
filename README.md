@@ -170,7 +170,21 @@ Por otro lado, cuando una rama entra en cortocircuito, la corriente se increment
 
 3. Resolución de ejercicios
 
+Capítulo 5
 
+2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
+
+![image](https://user-images.githubusercontent.com/105565670/171302038-1fc30ebc-d0fe-421b-b6ed-e49a25b48faf.png)
+
+•	De la punta 1 a la 8, están en serie los resistores: R13, R7, R14 y R16.
+•	De la punta 2 a la 3, están en serie los resistores: R12, R8 y R6.
+•	De la punta 4 a la 7, están en serie los resistores: R10, R11, R15 y R5.
+•	De la punta 5 a la 6, están en serie los resistores: R1, R2, R3, R4 yR9.
+Para que todos los resistores estén en serie, se coloca de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105565670/171302074-5727b487-0642-43fa-b670-cd852f4b79a2.png)
+
+4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
 
 
 
