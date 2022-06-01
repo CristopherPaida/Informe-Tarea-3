@@ -498,6 +498,12 @@ El esquema quedaría así:
 
 ![image](https://user-images.githubusercontent.com/105565670/171306939-8d29d036-8c25-4c65-ade2-8c1f91cd4b33.png)
 
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/105565670/171307276-88df8236-ecb5-43a5-8b7a-ffd68d7d40af.png)
+
+![image](https://user-images.githubusercontent.com/105565670/171307288-5ad8dc4f-09bc-4b79-81f7-38d14273cd33.png)
+
 
 
 
