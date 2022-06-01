@@ -504,26 +504,62 @@ El esquema quedaría así:
 
 ![image](https://user-images.githubusercontent.com/105565670/171307288-5ad8dc4f-09bc-4b79-81f7-38d14273cd33.png)
 
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
 
+![image](https://user-images.githubusercontent.com/105565670/171308549-b832cdd4-16f8-4a5e-8958-31ce57e2f96d.png)
 
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 
+![image](https://user-images.githubusercontent.com/105565670/171308573-ae752c3f-d0d7-490d-9ea1-08627ffe7a64.png)
 
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica
 
+![image](https://user-images.githubusercontent.com/105565670/171308596-1e58caca-69b6-4e95-9b9c-8fd7e84cdfd2.png)
 
+36.
 
+![image](https://user-images.githubusercontent.com/105565670/171308622-a298a686-6061-4cf3-9300-342c85ebc31b.png)
 
+![image](https://user-images.githubusercontent.com/105565670/171308639-bdc97769-824a-4952-95b6-351114da5e99.png)
 
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
+![image](https://user-images.githubusercontent.com/105565670/171308655-6f890e3a-a7cf-40bd-b4c6-c15d7b52cecd.png)
 
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
+![image](https://user-images.githubusercontent.com/105565670/171308669-bb620e39-acd8-4bb4-989b-53091a6164e8.png)
 
+42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
 
+![image](https://user-images.githubusercontent.com/105565670/171308712-2caef5f4-1765-45a5-9233-be3e65f28866.png)
 
+44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
+![image](https://user-images.githubusercontent.com/105565670/171308751-7375ca10-401d-4200-866a-ae94b2a850d8.png)
 
+46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 
+![image](https://user-images.githubusercontent.com/105565670/171308777-e9c1a6e5-ac0c-45fb-8094-af371f3960e0.png)
 
+48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
 
+![image](https://user-images.githubusercontent.com/105565670/171308795-e99bc356-5166-4af8-be09-013a70cd3ea1.png)
 
+![image](https://user-images.githubusercontent.com/105565670/171308811-21394129-1c24-41b6-b27c-52bea3d9b91a.png)
 
+4. Video
 
+Link del video: https://www.youtube.com/watch?v=J9izi8sc7Mo
+
+5. Conclusiones
+
+•	Los circuitos en serie se caracterizan por mantener su corriente constante y un voltaje variado, añadiendo que las resistencias totales siempre serán las mismas que las resistencias individuales que compone un circuito.
+
+•	Los circuitos en paralelo se caracterizan por mantener su voltaje constante y una corriente variada, añadiendo que sus resistencias totales siempre van a ser menor que las resistencias de un circuito.
+
+6. Bibliografía
+
+Editorial Etecé. (5 de Agosto de 2021). concepto.de. Obtenido de https://concepto.de/circuito-en-serie/
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: PEARSON EDUCACIÓN.
