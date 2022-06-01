@@ -496,6 +496,7 @@ El esquema quedaría así:
 
 26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74
 
+![image](https://user-images.githubusercontent.com/105565670/171306939-8d29d036-8c25-4c65-ade2-8c1f91cd4b33.png)
 
 
 
